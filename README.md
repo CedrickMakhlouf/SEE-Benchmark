@@ -1,6 +1,3 @@
-Here is the entire `README.md` as **one continuous Markdown block**, no commentary, no sections split out:
-
-```markdown
 # SEE-Benchmark
 
 **Screen Explanation Evaluation (SEE)** is the first open-source benchmark designed to evaluate how well Vision-Language Models (VLMs) can generate screen descriptions for visually impaired users. It enables systematic, reproducible comparisons of model and prompt combinations using annotated Dutch desktop screenshots and LLM-based evaluation.
@@ -23,12 +20,9 @@ Sighted users understand screen layouts through top-down visual cues. Visually i
 
 Create a `.env` file in the project root with your credentials:
 
-```
 
 TOGETHER\_API\_KEY=your-together-key
 OPENAI\_API\_KEY=your-openai-key
-
-```
 
 These keys are used for Together API (model inference) and OpenAI API (evaluation via GPT-4o).
 
