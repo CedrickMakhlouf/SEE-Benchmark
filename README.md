@@ -20,9 +20,12 @@ Sighted users understand screen layouts through top-down visual cues. Visually i
 
 Create a `.env` file in the project root with your credentials:
 
+```
 
 TOGETHER\_API\_KEY=your-together-key
 OPENAI\_API\_KEY=your-openai-key
+
+```
 
 These keys are used for Together API (model inference) and OpenAI API (evaluation via GPT-4o).
 
