@@ -16,3 +16,7 @@ Sighted users understand screen layouts through top-down visual cues. Visually i
   - Reference Coverage (semantic alignment with the reference)
   - Must-Include Coverage (inclusion of essential elements)
 
+## 🔐 API Key Setup
+Create a `.env` file in the project root with your credentials:
+TOGETHER_API_KEY=your-together-key
+OPENAI_API_KEY=your-openai-key
