@@ -1,3 +1,4 @@
+(MSc AI Thesis)
 # SEE-Benchmark
 
 **Screen Explanation Evaluation (SEE)** is the first open-source benchmark designed to evaluate how well Vision-Language Models (VLMs) can generate screen descriptions for visually impaired users. It enables systematic, reproducible comparisons of model and prompt combinations using annotated Dutch desktop screenshots and LLM-based evaluation.
